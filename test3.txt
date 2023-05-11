@@ -2,7 +2,4 @@
 this is a demo content of that file 
 now adding feature in feature branch...
 
-branch
-Cmt 1
-
-cmt 2
+master cmt 1
