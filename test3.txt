@@ -3,3 +3,4 @@ this is a demo content of that file
 now adding feature in feature branch...
 
 master cmt 1
+master cmt 2
