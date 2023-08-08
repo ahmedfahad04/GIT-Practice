@@ -1,1 +1,2 @@
 this is the 3rd and untracked file of 1st branch
+Now i have changed the file log to show diff
