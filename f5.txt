@@ -1,4 +1,7 @@
 this 5th file content is edited
 another change from f2
+<<<<<<< Updated upstream
 
 this is a stashed change
+=======
+>>>>>>> Stashed changes
