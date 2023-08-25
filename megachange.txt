@@ -1,1 +1,3 @@
 this is a mega change made from main branch, i want to test if i create a new branch and add this changes from that branch, then how can i merge it with master branch
+
+Now i have merged the new changes from my new branch to master branch. Now i just need to push the changes from the master branch so that it reflect at the master branch. XD
