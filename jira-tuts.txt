@@ -1,1 +1,2 @@
 hello from github to JIRA
+new commit made to test the first trigger.
